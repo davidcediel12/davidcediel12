@@ -1,6 +1,6 @@
 ## About me
 
-Hi there 😀 I'm David Cediel. I'm a Backend Developer with 2+ years of experience building applications with Java ☕ and Spring Boot 🍃
+Hi there 😀 I'm David Cediel. I'm a Backend Developer with 3+ years of experience building applications with Java ☕ and Spring Boot 🍃
 
 
 ### Tech Stack 
